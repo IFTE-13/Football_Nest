@@ -1,0 +1,57 @@
+.info{
+    background-color: rgb(10, 10, 90);
+    border-radius: 10px;
+    height: 50%;
+}
+
+.picStyle img{
+    height: 32vh;
+}
+
+.body{
+    background-color: rgb(94, 23, 94);
+}
+
+.detPic {
+   
+}
+ @media screen and (max-width: 600px) {
+      .detPic{
+        width: 100%;
+        height: 40vh;
+        color: white;
+ }
+      
+.descDet{
+          margin-top: 10px !important;
+      }
+.picStyle img{
+        height: 26vh;
+    }
+    }
+
+    
+.detPic img{
+        width: 200px;
+    }
+
+    .backgroundPrac{
+        height: 100%;
+        width: 100%;
+        background-color: rgba(187, 230, 226, 0.575);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.logo img{
+    height: 50px;
+}
+.none{
+    background-color: rgb(190, 198, 214);
+    color: white;
+}
+.none:hover {
+    background-color: cyan;
+}
+

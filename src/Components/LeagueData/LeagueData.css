@@ -1,0 +1,9 @@
+.img{
+    margin-top: 10px;
+    height: 170px;
+    width: 150px;
+}
+
+.effect:hover{
+    background-color: darkcyan;
+}

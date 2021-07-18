@@ -1,0 +1,11 @@
+.style{
+  background: url("https://wallpaperaccess.com/full/1637934.jpg") no-repeat center right/cover;
+    width: 100%;
+    height: 50vh;
+    color: white;
+  }
+  @media screen and (max-width: 600px) {
+    .style{
+      height: 40vh;
+    }
+  }
